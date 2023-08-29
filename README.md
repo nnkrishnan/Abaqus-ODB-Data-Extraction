@@ -6,3 +6,5 @@ The data of the node set can be extracted for a perticular frame or a set of fra
 
 
 The json output can be used to generate .csv files which can later be used in MATLAB or can be directly used in your python script.
+
+The script needs to be run with ABAQUS. It was tested for ABAQUS v18.

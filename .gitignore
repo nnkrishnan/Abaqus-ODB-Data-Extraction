@@ -1,0 +1,17 @@
+# script specific output files
+*.JSON
+*.json
+*.csv
+
+# Abaqus Files
+*.rpy
+*.rec
+*.log
+*.sta
+*.odb
+*.stt
+*.dat
+*.msg
+*.prt
+*.cae
+*.jnl
